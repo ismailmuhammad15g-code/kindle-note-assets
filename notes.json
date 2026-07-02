@@ -4,8 +4,8 @@
     {
       "noteId": "N_1783008554485",
       "title": "Hello",
-      "content": "Hello",
-      "updated": "2026-07-02T16:09:18.019Z"
+      "content": "Hello\n```bash\nHello\n```",
+      "updated": "2026-07-02T16:10:09.087Z"
     }
   ]
 }
