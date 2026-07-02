@@ -2,13 +2,6 @@
   "bookName": "secondery book",
   "notes": [
     {
-      "noteId": "N_1783010199405",
-      "title": "Untitled",
-      "content": "<mark>hello</mark>",
-      "updated": "2026-07-02T16:37:14.660Z",
-      "author": "Ismail"
-    },
-    {
       "noteId": "N_1783008554485",
       "title": "Hello",
       "content": "Hi\n\n## hello\n\n**What's your name**\n\n<h1>hello</h1>\n<br>",
