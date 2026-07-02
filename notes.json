@@ -1,12 +1,4 @@
 {
   "bookName": "My Notes",
-  "notes": [
-    {
-      "noteId": "N_1783016013276",
-      "title": "Ddd",
-      "content": "Sss",
-      "updated": "2026-07-02T18:13:34.197Z",
-      "author": "Ismail"
-    }
-  ]
+  "notes": []
 }
